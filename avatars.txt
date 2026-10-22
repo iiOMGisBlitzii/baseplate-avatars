@@ -1,3 +1,14 @@
+avtr_a93e30c3-7224-41a0-ae8a-399981daa19d | Hobkin Boreas | ZephyrNikiforov | Picks
+avtr_de58c441-e886-46ca-9008-07da5664c047 | Unity Man | Liaмriley101 | Picks
+avtr_3ad21f20-1583-411a-aa39-f1b2c73b816f | Smol Boi | Cjopet | More
+avtr_3faa7b21-cb20-4273-8933-da76e7df9e8b | Ashe | Rivarilierly | More
+avtr_d388a0bc-9e7b-479a-8bb0-100ef31efcbe | Pixel stick | ShockedCarpet14 | More
+avtr_4e52f5cc-38cd-48be-90ea-eda1a35265db | H | ShockedCarpet14 | More
+avtr_f0988486-7ab0-41ef-a0ed-ba3dead81a16 | Zena Entity | ＢΛＳΞＤ | More
+avtr_ff1e7abc-c080-4318-b9d5-ff55114d2681 | Calico Kitty | Retr0_Fusion | Furry,More
+avtr_23a39861-93c1-4820-af5b-10efa875a844 | blue bunny maya | ༒PROPOT༒ | Furry,More
+avtr_95fcc336-8e12-4119-a865-b28c4420617b | Mayu | ʙɪɢᴄᴏᴄᴋʟᴏᴠᴇʀ | More,Picks
+avtr_b780d73c-6fab-4f61-ab53-f61e86b0fe46 | Riven | ıllıPrizzıllı | Furry
 avtr_66592e08-9594-411e-95fe-d0cd493887b6 | NIKEEEIIIIIIIIIIIIII | SC0RCH | Picks | pc
 avtr_41527f56-69af-4250-a901-f05882235953 | STICK | SC0RCH | Picks | pc
 avtr_c4b80c1c-ef9c-41bb-9425-02b4d82655cc | static const fixed4 nyan(fixed2 p){ fi... | SC0RCH | Picks | pc
